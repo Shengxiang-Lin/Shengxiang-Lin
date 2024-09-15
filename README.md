@@ -23,8 +23,7 @@
 - ⚡ Fun fact: ...
 ![暗色](https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang/output/github-contribution-grid-snake-dark.svg)
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallinshengxiang&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
-</a>
+ <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reallinshengxiang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 
 ## Education

@@ -24,7 +24,7 @@
 ![暗色](https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang/output/github-contribution-grid-snake-dark.svg)
 <a href="https://github.com/anuraghazra/convoychat">
  <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reallinshengxiang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=reallinshengxiang" /> </div>
 
 ## Education
 `2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___

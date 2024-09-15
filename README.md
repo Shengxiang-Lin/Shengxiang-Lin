@@ -3,12 +3,12 @@
 <!-- profile logo 个人资料徽标 -->
   <div>
 <!--     <a href="https://bxhu2004.com/"><img src="https://img.shields.io/badge/academicHomepage-@bxhu-yellow" /></a>&emsp;
-    <a href="https://blog.bxhu2004.com/"><img src="https://img.shields.io/badge/myBlog-@bxhu-green" /></a>&emsp; -->
+    <a href="https://blog.bxhu2004.com/"><img src="https://img.shields.io/badge/myBlog-@bxhu-green" /></a>&emsp;
     <a href="https://twitter.com/Carrot_bxhu/"><img src="https://img.shields.io/badge/Twitter-@bxhu-black" /></a>&emsp;
     <a href="https://www.instagram.com/huboxuanhu/"><img src="https://img.shields.io/badge/Instagram-@bxhu-pink" /></a>&emsp;
     <a href="https://www.facebook.com/profile.php?id=61557554264070"><img src="https://img.shields.io/badge/Facebook-@bxhu-blue" /></a>&emsp;
     <a href="https://www.linkedin.com/in/boxuan-hu-20040220root/"><img src="https://img.shields.io/badge/LinkedIn-@bxhu-blue" /></a>&emsp;
-    <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp;
+    <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp; -->
     <img src="https://komarev.com/ghpvc/?username=reallinshengxiang&label=Views&color=512BD4&style=flat" alt="Visit" />
   </div>
 
@@ -61,5 +61,5 @@
 
 ### If you are interested in my research, feel free to contact me!
   
-- bxhu2004@berkeley.edu
-- 3157726199@stu.xjtu.edu.cn
+- reallinshengxiang@berkeley.edu
+- linshengxiang@stu.xjtu.edu.cn

@@ -25,6 +25,7 @@
 
 ## Education
 `2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___
+
 `2024.8 - 2024.12` UCBX Concurrent International, ___University of California, Berkeley___
 
 # Miscellaneous

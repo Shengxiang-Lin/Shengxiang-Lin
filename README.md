@@ -36,7 +36,7 @@
 [![C#](https://img.shields.io/badge/-Csharp-512BD4?style=flat-square&logo=csharp&logoColor=ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 ![Archlinux](https://img.shields.io/badge/-Archlinux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=ffffff)
+<!-- ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -52,7 +52,7 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![MacOS Badge](https://img.shields.io/badge/MacOS-181717?logo=macos&logoColor=fff&style=flat)
+![MacOS Badge](https://img.shields.io/badge/MacOS-181717?logo=macos&logoColor=fff&style=flat)-->
 
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=root-hbx" /> </div> -->
 <!-- just img 图片 forked from this man-->

@@ -13,8 +13,8 @@ jobs:
       # 检出代码库
       - uses: actions/checkout@v3
       
-      # 使用最新版本的 github-profile-3d-contrib 动作
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      # 使用最新的 github-profile-3d-contrib 动作版本
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1 # 更新为实际的版本号
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: reallinshengxiang
@@ -26,3 +26,4 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git diff --staged --exit-code || (git commit -m "generated" && git push)
+

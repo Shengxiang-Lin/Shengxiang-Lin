@@ -84,13 +84,5 @@
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=reallinshengxiang&theme=radical" />
 
 
-<!--LINE-->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
-
-<!--STATTITLE / WEBSITE: https://textanim.com/-->
-<p align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/start.gif?raw=true">
- <!--SNAKETITLE / WEBSITE: https://textanim.com/ -->
-<p align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/gongxianzhi.gif?raw=true" width="500">
-<!--SNAKEGRAPH / WEBSITE: https://github.com/Platane/snk -->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/snk.svg?raw=true"
-width="100%">
+<!--使用的语言-搬砖动画-->
+<div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=reallinshengxiang&theme=radical&show_icons=true>

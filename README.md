@@ -1,7 +1,7 @@
-## HI,I'm Shengxiang Lin
+## Self-Introduction
 
-- 🌱 I'm currently an undergraduate of Xi'an Jiaotong University in Computer Science department.
-- 🔭 I am currently UCBX Concurrent International.
+- 🌱 Undergraduate in Computer Science and Technology Experimental Class (Qian Xuesen Honor Science), Xi'an Jiaotong University.
+- 🔭 UCBX Concurrent International
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

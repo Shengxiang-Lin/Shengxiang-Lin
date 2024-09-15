@@ -23,8 +23,10 @@
 - ⚡ Fun fact: ...
 ![暗色](https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang/output/github-contribution-grid-snake-dark.svg)
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=root-hbx&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallinshengxiang&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
 </a>
+
+
 ## Education
 `2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___
 

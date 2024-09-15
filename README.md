@@ -1,7 +1,7 @@
 ## HI,I'm Shengxiang Lin
 
-- 🌱 I am a 22nd grade undergraduate student from the Department of Electronics and Information Science at Xi'an Jiaotong University
-- 🔭 I am currently UCBX Concurrent International
+- 🌱 I'm currently an undergraduate of Xi'an Jiaotong University in Computer Science department.
+- 🔭 I am currently UCBX Concurrent International.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

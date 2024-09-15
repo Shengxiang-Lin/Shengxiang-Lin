@@ -78,6 +78,8 @@
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 
+<!--贡献速度-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reallinshengxiang&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
 
 <!--Github奖杯数据展示-->
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=reallinshengxiang&theme=radical" />
@@ -86,5 +88,4 @@
 <!--使用的语言-搬砖动画-->
 <div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=reallinshengxiang&theme=radical&show_icons=true>
 
-<!--贡献速度-->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reallinshengxiang&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
+

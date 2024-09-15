@@ -1,7 +1,7 @@
 ## Self-Introduction
 
-- 🌱 Undergraduate in Computer Science and Technology Experimental Class (Qian Xuesen Honor Science), Xi'an Jiaotong University.
-- 🔭 UCBX Concurrent International
+- 🌱 Undergraduate in CS2201 (HONOR), of QianXuesen College, Xi'an Jiaotong University (2022.09 - present)
+- 🔭 UCBX Concurrent International, University of California, Berkeley  (2024.08 - 2024.12)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

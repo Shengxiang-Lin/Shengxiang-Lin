@@ -36,9 +36,7 @@
 
 `2024.8 - 2024.12` UCBX Concurrent International, ___University of California, Berkeley___
 
-# Miscellaneous
-
-### Skills
+## Skills
 [![Cplusplus](https://img.shields.io/badge/-Cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://cplusplus.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/-Csharp-512BD4?style=flat-square&logo=csharp&logoColor=ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -72,7 +70,7 @@
 - reallinshengxiang@berkeley.edu
 - linshengxiang@stu.xjtu.edu.cn
 
-
+## Miscellaneous
 
 </div>
 <!--Line跑码线-->

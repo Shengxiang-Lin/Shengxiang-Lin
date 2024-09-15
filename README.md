@@ -11,7 +11,7 @@
     <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp; -->
     <img src="https://komarev.com/ghpvc/?username=reallinshengxiang&label=Views&color=512BD4&style=flat" alt="Visit" />
   </div>
-
+    <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=reallinshengxiang" /> </div>
 
 - 🌱 Undergraduate in CS2201 (HONOR), of QianXuesen College, Xi'an Jiaotong University (2022.09 - present)
 - 🔭 UCBX Concurrent International, University of California, Berkeley  (2024.08 - 2024.12)

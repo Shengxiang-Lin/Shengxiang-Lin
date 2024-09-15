@@ -82,9 +82,6 @@
 <!--贡献速度-->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=reallinshengxiang&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
 <!-- Github数据展示-->
-<div align="center"> <img src="https://metrics.lecoq.io/heartyang520?template=classic&config.timezone=Asia%2Fchengdu"></div>
-<!-- 奖杯-->
-<p align="center">
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/beker.gif?raw=true"  width="100px" height="100px"></p>
+<div align="center"> <img src="https://metrics.lecoq.io/reallinshengxiang?template=classic&config.timezone=Asia%2Fchengdu"></div>
 <!--Github奖杯数据展示-->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=heartyang520&theme=radical" />
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=reallinshengxiang&theme=radical" />

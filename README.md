@@ -76,13 +76,6 @@
 
 
 
-<!--Link-Speed-->
-<div class="contain"><p style="font-size:40px;color:orange">Link-Speed</p>
-</div>
-
-<div align=""> <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
-<img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
-<img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
 </div>
 <!--Line跑码线-->
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">

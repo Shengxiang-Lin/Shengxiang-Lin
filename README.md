@@ -77,3 +77,8 @@
 
 <!-- 数据展示-主题&theme=radical-->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reallinshengxiang&theme=radical&hide_border=true" />
+
+<!--贡献速度-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reallinshengxiang&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
+<!-- Github数据展示-->
+<div align="center"> <img src="https://metrics.lecoq.io/reallinshengxiang?template=classic&config.timezone=Asia%2Fchengdu"></div>

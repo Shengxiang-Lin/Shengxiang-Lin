@@ -6,11 +6,6 @@
 <img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg">
 
 <div align="center"><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_c.gif?raw=true"width="20%"><img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%">
-</div>
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
-<div>
-<p><strong>&emsp;&emsp; <a href="https://heartyang520.github.io/Galaxy-Network-Interactive-Desktop">
 
 <!-- profile logo 个人资料徽标 -->
   <div>

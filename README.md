@@ -1,10 +1,9 @@
-##Watching
+## Watching
 
 <!--访问次数-->
-<div align="left">
 <img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg">
 
-<div align="center"><img src="https://badges.pufler.dev/visits/reallinshengxiang/reallinshengxiang?color=black&logo=github&style=flat-square">
+<div><img src="https://badges.pufler.dev/visits/reallinshengxiang/reallinshengxiang?color=black&logo=github&style=flat-square">
 
 <!-- profile logo 个人资料徽标 -->
 <div><img src="https://komarev.com/ghpvc/?username=reallinshengxiang&label=Views&color=512BD4&style=flat" alt="Visit" />

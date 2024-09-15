@@ -84,3 +84,5 @@
 
 <!--使用的语言-搬砖动画-->
 <div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=reallinshengxiang&theme=radical&show_icons=true>
+
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)

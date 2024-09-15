@@ -68,4 +68,3 @@
 - reallinshengxiang@berkeley.edu
 - linshengxiang@stu.xjtu.edu.cn
 
- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=reallinshengxiang&theme=xcode" /> </div>

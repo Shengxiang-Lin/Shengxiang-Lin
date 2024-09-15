@@ -3,7 +3,7 @@
 <!--访问次数-->
 <h2>Watching</h2>
 <div align="left">
-<img src="https://profile-counter.glitch.me/heartyang520/count.svg">
+<img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg">
 
 <!-- profile logo 个人资料徽标 -->
   <div>

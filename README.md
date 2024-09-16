@@ -67,7 +67,7 @@
 
 ### If you are interested in my research, feel free to contact me!
   
-- reallinshengxiang@berkeley.edu
+- linshengxiang@berkeley.edu
 - linshengxiang@stu.xjtu.edu.cn
 
 ## Miscellaneous

@@ -1,4 +1,5 @@
-## Watching  <img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg">
+## Watching  
+<img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg">
 
 <div><img src="https://badges.pufler.dev/visits/reallinshengxiang/reallinshengxiang?color=black&logo=github&style=flat-square">
 

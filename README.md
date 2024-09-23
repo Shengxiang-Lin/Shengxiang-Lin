@@ -76,7 +76,6 @@
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-rainbow.svg)
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--贡献速度-->
 <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=reallinshengxiang&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
 

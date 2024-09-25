@@ -28,7 +28,7 @@
 - ⚡ Fun fact: ...
 
 
-![暗色](https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang/output/github-contribution-grid-snake-dark.svg)
+![暗色](https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
 
 ## Education
 `2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___

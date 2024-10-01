@@ -14,7 +14,7 @@
     <a href="https://www.facebook.com/profile.php?id=61557554264070"><img src="https://img.shields.io/badge/Facebook-@bxhu-blue" /></a>&emsp;
     <a href="https://www.linkedin.com/in/boxuan-hu-20040220root/"><img src="https://img.shields.io/badge/LinkedIn-@bxhu-blue" /></a>&emsp;
     <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp; -->
-    
+![暗色](https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
 ## Self-Introduction
 
 
@@ -28,7 +28,7 @@
 - ⚡ Fun fact: ...
 
 
-![暗色](https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
+
 
 ## Education
 `2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___

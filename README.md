@@ -92,6 +92,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reallinshengxiang&theme=dark&hide_border=true" />
 
 <!-- metrics 基础资料 -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/reallinshengxiang/reallinshengxiang/github-metrics/base.svg" />-->
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=reallinshengxiang&count_private=true&show_icons=true&theme=dracula" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/reallinshengxiang/reallinshengxiang/github-metrics/base.svg" />
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=reallinshengxiang&count_private=true&show_icons=true&theme=dracula" />-->
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallinshengxiang&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
 

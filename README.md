@@ -59,10 +59,10 @@
 <!-- just img 图片 forked from this man-->
 <!--<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>-->
-### 🏊 更多仓库
+### Repositories
 
 <details open>
-<summary>点击展开 ...</summary>
+<summary>click to expand ...</summary>
 
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |

@@ -66,8 +66,8 @@
 
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
-| [XJTU-Coursework](https://github.com/reallinshengxiang/XJTU-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/XJTU-Coursework?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 学习docker过程中所用到的一些东东 |
-| [UCB-Coursework](https://github.com/reallinshengxiang/UCB-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/UCB-Coursework?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 一些值得珍藏的脚本  |
+| [XJTU-Coursework](https://github.com/reallinshengxiang/XJTU-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/XJTU-Coursework?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1 |
+| [UCB-Coursework](https://github.com/reallinshengxiang/UCB-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/UCB-Coursework?color=f2f08d&logo=Undertale&logoColor=dark)  | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1  |
 ### If you are interested in my research, feel free to contact me!
   
 - linshengxiang@berkeley.edu

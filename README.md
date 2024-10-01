@@ -1,4 +1,6 @@
 ## Watching  
+<details open>
+<summary>click to expand ...</summary>
 <img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg">
 <div><img src="https://badges.pufler.dev/visits/reallinshengxiang/reallinshengxiang?color=black&logo=github&style=flat-square"><img src="https://komarev.com/ghpvc/?username=reallinshengxiang&label=Views&color=512BD4&style=flat" alt="Visit" />
 <!--访问次数-->
@@ -59,7 +61,7 @@
 <!-- just img 图片 forked from this man-->
 <!--<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>-->
-### Repositories
+## Repositories
 
 <details open>
 <summary>click to expand ...</summary>

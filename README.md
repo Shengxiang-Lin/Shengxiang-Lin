@@ -1,11 +1,6 @@
 ## Watching  
 <img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg">
 <div><img src="https://badges.pufler.dev/visits/reallinshengxiang/reallinshengxiang?color=black&logo=github&style=flat-square"><img src="https://komarev.com/ghpvc/?username=reallinshengxiang&label=Views&color=512BD4&style=flat" alt="Visit" />
-<p align="center">
-    <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
-    <img src="https://img.shields.io/static/v1?label=wechat&message=Alex5198023&color=7BB32E&logo=wechat">
-    <a href="https://pudongping.github.io" target="_blank"><img src="https://img.shields.io/badge/website-pudongping.github.io-orange"></a>
-    <img style="border-radius: 2px;" src="https://hits.dwyl.com/pudongping/pudongping/pudongping.svg?style=flat" alt="visitors">
 <!--访问次数-->
 
 <!--     <a href="https://bxhu2004.com/"><img src="https://img.shields.io/badge/academicHomepage-@bxhu-yellow" /></a>&emsp;

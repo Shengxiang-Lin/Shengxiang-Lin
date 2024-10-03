@@ -1,7 +1,6 @@
 ![暗色](https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
 
-## Watching  
-<img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg">
+## Watching  <img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg">
 <div><img src="https://badges.pufler.dev/visits/reallinshengxiang/reallinshengxiang?color=black&logo=github&style=flat-square"><img src="https://komarev.com/ghpvc/?username=reallinshengxiang&label=Views&color=512BD4&style=flat" alt="Visit" />
 <!--访问次数-->
 

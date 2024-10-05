@@ -1,3 +1,4 @@
+ <img src="./github-metrics.svg" alt="Metrics" width="100%">
 ![暗色](https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
 
 <img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg"> <img src="https://badges.pufler.dev/visits/reallinshengxiang/reallinshengxiang?color=black&logo=github&style=flat-square"><img src="https://komarev.com/ghpvc/?username=reallinshengxiang&label=Views&color=512BD4&style=flat" alt="Visit" />
@@ -10,7 +11,7 @@
     <a href="https://www.facebook.com/profile.php?id=61557554264070"><img src="https://img.shields.io/badge/Facebook-@bxhu-blue" /></a>&emsp;
     <a href="https://www.linkedin.com/in/boxuan-hu-20040220root/"><img src="https://img.shields.io/badge/LinkedIn-@bxhu-blue" /></a>&emsp;
     <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp; -->
- <img src="./github-metrics.svg" alt="Metrics" width="100%">
+
 ## Self-Introduction
 
 

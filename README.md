@@ -10,7 +10,7 @@
     <a href="https://www.facebook.com/profile.php?id=61557554264070"><img src="https://img.shields.io/badge/Facebook-@bxhu-blue" /></a>&emsp;
     <a href="https://www.linkedin.com/in/boxuan-hu-20040220root/"><img src="https://img.shields.io/badge/LinkedIn-@bxhu-blue" /></a>&emsp;
     <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp; -->
- 
+ <img src="./github-metrics.svg" alt="Metrics" width="100%">
 ## Self-Introduction
 
 
@@ -106,4 +106,4 @@ If you are interested in my research, feel free to contact me!
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=reallinshengxiang&count_private=true&show_icons=true&theme=dracula" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallinshengxiang&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
 <img src="./github-metrics.svg" alt="Metrics" width="50%">-->
-<img src="./github-metrics.svg" alt="Metrics" width="100%">
+

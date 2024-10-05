@@ -83,14 +83,14 @@ If you are interested in my research, feel free to contact me!
 
 </div>
 <!--Line跑码线-->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+<!--<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-rainbow.svg)
+<!--![Personal 3D Metrics](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--贡献速度-->
-<div><img src="https://github-readme-activity-graph.vercel.app/graph?username=reallinshengxiang&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
+<!--<div><img src="https://github-readme-activity-graph.vercel.app/graph?username=reallinshengxiang&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
 
 <!--Github奖杯数据展示-->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=reallinshengxiang&theme=radical" />
+<!--<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=reallinshengxiang&theme=radical" />
 
 
 <!--使用的语言-搬砖动画-->
@@ -98,7 +98,7 @@ If you are interested in my research, feel free to contact me!
 
 <!--<img height="130px" src="https://github-readme-stats.vercel.app/api?username=reallinshengxiang&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallinshengxiang&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reallinshengxiang&layout=compact&theme=dark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reallinshengxiang&layout=compact&theme=dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reallinshengxiang&theme=dark&hide_border=true" />
 
 <!-- metrics 基础资料 -->
@@ -106,3 +106,4 @@ If you are interested in my research, feel free to contact me!
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=reallinshengxiang&count_private=true&show_icons=true&theme=dracula" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallinshengxiang&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
 <img src="./github-metrics.svg" alt="Metrics" width="50%">-->
+<img src="./github-metrics.svg" alt="Metrics" width="100%">

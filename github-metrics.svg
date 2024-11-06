@@ -262,20 +262,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.62mb of code in 1518 edited files across 405 commits over last 13 days</small>
+                <small>estimation from 1.64mb of code in 1539 edited files across 425 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="635.0448879787473" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="635.0448879787473" y="0" width="118.66822465465256" height="8" fill="#3f8000"/>
-                    <rect mask="url(#languages-bar)" x="753.7131126333999" y="0" width="103.4500415144049" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="857.1631541478048" y="0" width="43.858455325934585" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="901.0216094737393" y="0" width="10.235169380463034" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="911.2567788542024" y="0" width="3.953896181858459" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="915.2106750360608" y="0" width="3.2405924638249735" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="918.4512674998858" y="0" width="1.5487325001141434" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="635.4159207744219" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="635.4159207744219" y="0" width="118.51370978092723" height="8" fill="#3f8000"/>
+                    <rect mask="url(#languages-bar)" x="753.9296305553491" y="0" width="103.3153418494525" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="857.2449724048016" y="0" width="43.801348348003486" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="901.0463207528052" y="0" width="10.221842427026406" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="911.2681631798316" y="0" width="3.948747914316402" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="915.216911094148" y="0" width="3.2363729708916256" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="918.4532840650396" y="0" width="1.546715934960448" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -288,8 +288,8 @@
                             </div>
                             <small>
                                 <div>28.1k lines</div>
-                                <div>816 kB</div>
-                                <div>69.03%</div>
+                                <div>817 kB</div>
+                                <div>69.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -317,7 +317,7 @@
                             <small>
                                 <div>6.36k lines</div>
                                 <div>152 kB</div>
-                                <div>12.9%</div>
+                                <div>12.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -345,7 +345,7 @@
                             <small>
                                 <div>4.69k lines</div>
                                 <div>132 kB</div>
-                                <div>11.24%</div>
+                                <div>11.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -373,7 +373,7 @@
                             <small>
                                 <div>3.14k lines</div>
                                 <div>56.3 kB</div>
-                                <div>4.77%</div>
+                                <div>4.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2578,7 +2578,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.84m out of 148m users</span>
+                                    <span class="gh">ranked 5.84m out of 146m users</span>
                                 </div>
                                 <div class="text">Published 12 public repositories</div>
                             </div>
@@ -2781,14 +2781,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2024, 08:12:58 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2024, 09:09:04 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

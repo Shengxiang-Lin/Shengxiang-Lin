@@ -29,8 +29,8 @@
 
 
 ## Education
-[<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/xjtu.webp"  align = "left"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html)`2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___    
-[<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/ucb.webp"  align = "left" width="2.2%"/>](https://www.berkeley.edu/)`2024.8 - 2024.12` UCBX Concurrent International, ___University of California, Berkeley___      
+`2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___ [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html)         
+`2024.8 - 2024.12` UCBX Concurrent International, ___University of California, Berkeley___  [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/ucb.webp"  align = "right" width="2.2%"/>](https://www.berkeley.edu/)          
    
     
 ## Skills

@@ -262,15 +262,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 470kb of code in 167 edited files across 130 commits over last 14 days</small>
+                <small>estimation from 470kb of code in 166 edited files across 128 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="858.1627704334404" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="858.1627704334404" y="0" width="53.62830183981876" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="911.7910722732591" y="0" width="8.208927726740857" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="858.1199425997528" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="858.1199425997528" y="0" width="53.66544425399609" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="911.7853868537488" y="0" width="8.214613146251047" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -284,7 +284,7 @@
                             <small>
                                 <div>7.10k lines</div>
                                 <div>187 kB</div>
-                                <div>93.28%</div>
+                                <div>93.27%</div>
                             </small>
                         </div>
                     </section>
@@ -344,8 +344,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="243.46 329"/>
-                                <text x="60" y="60" dominant-baseline="central">74</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="279.65 329"/>
+                                <text x="60" y="60" dominant-baseline="central">85</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -2574,7 +2574,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.02m out of 150m users</span>
+                                    <span class="gh">ranked 5.02m out of 151m users</span>
                                 </div>
                                 <div class="text">Published 14 public repositories</div>
                             </div>
@@ -2775,14 +2775,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Dec 2024, 14:01:24 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2024, 14:25:52 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

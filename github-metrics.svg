@@ -262,15 +262,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 55.9kb of code in 52 edited files across 104 commits over last 14 days</small>
+                <small>estimation from 54.7kb of code in 50 edited files across 100 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="732.6331542071968" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="732.6331542071968" y="0" width="112.14475205768315" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="844.7779062648799" y="0" width="75.22209373512005" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="797.8694718127269" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="797.8694718127269" y="0" width="122.13052818727314" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -284,7 +283,7 @@
                             <small>
                                 <div>83 lines</div>
                                 <div>11.7 kB</div>
-                                <div>79.63%</div>
+                                <div>86.72%</div>
                             </small>
                         </div>
                     </section>
@@ -299,24 +298,11 @@
                             <small>
                                 <div>63 lines</div>
                                 <div>1.79 kB</div>
-                                <div>12.19%</div>
+                                <div>13.28%</div>
                             </small>
                         </div>
                     </section>
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                RenderScript
-                            </div>
-                            <small>
-                                <div>72 lines</div>
-                                <div>1.20 kB</div>
-                                <div>8.18%</div>
-                            </small>
-                        </div>
                     </section>
                     <section>
                     </section>
@@ -344,8 +330,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="273.07 329"/>
-                                <text x="60" y="60" dominant-baseline="central">83</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="259.91 329"/>
+                                <text x="60" y="60" dominant-baseline="central">79</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -2747,14 +2733,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2024, 20:51:23 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2024, 21:08:29 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -262,15 +262,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 56.1kb of code in 53 edited files across 106 commits over last 14 days</small>
+                <small>estimation from 55.9kb of code in 52 edited files across 104 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="719.51633375643" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="719.51633375643" y="0" width="110.13694969603849" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="829.6532834524685" y="0" width="90.34671654753157" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="732.6331542071968" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="732.6331542071968" y="0" width="112.14475205768315" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="844.7779062648799" y="0" width="75.22209373512005" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -284,7 +284,7 @@
                             <small>
                                 <div>83 lines</div>
                                 <div>11.7 kB</div>
-                                <div>78.21%</div>
+                                <div>79.63%</div>
                             </small>
                         </div>
                     </section>
@@ -299,7 +299,7 @@
                             <small>
                                 <div>63 lines</div>
                                 <div>1.79 kB</div>
-                                <div>11.97%</div>
+                                <div>12.19%</div>
                             </small>
                         </div>
                     </section>
@@ -312,9 +312,9 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>88 lines</div>
-                                <div>1.47 kB</div>
-                                <div>9.82%</div>
+                                <div>72 lines</div>
+                                <div>1.20 kB</div>
+                                <div>8.18%</div>
                             </small>
                         </div>
                     </section>
@@ -2754,7 +2754,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2024, 20:45:54 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2024, 20:51:23 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

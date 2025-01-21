@@ -276,20 +276,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 15.5mb of code in 10614 edited files across 327 commits over last 14 days</small>
+                <small>estimation from 15.5mb of code in 10612 edited files across 323 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="489.6768749557146" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="489.6768749557146" y="0" width="132.76214313069747" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="622.439018086412" y="0" width="83.00152807287702" height="8" fill="#9400ff"/>
-                    <rect mask="url(#languages-bar)" x="705.440546159289" y="0" width="68.9651213231602" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="774.4056674824493" y="0" width="43.7155486808886" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="818.1212161633379" y="0" width="43.18316208907374" height="8" fill="#da291c"/>
-                    <rect mask="url(#languages-bar)" x="861.3043782524117" y="0" width="33.18529655050663" height="8" fill="#3f8000"/>
-                    <rect mask="url(#languages-bar)" x="894.4896748029183" y="0" width="25.510325197081755" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="489.7007402747489" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="489.7007402747489" y="0" width="132.76861354223527" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="622.4693538169843" y="0" width="83.00557330770248" height="8" fill="#9400ff"/>
+                    <rect mask="url(#languages-bar)" x="705.4749271246867" y="0" width="68.96848246743062" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="774.4434095921173" y="0" width="43.71767923997641" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="818.1610888320937" y="0" width="43.18526670130453" height="8" fill="#da291c"/>
+                    <rect mask="url(#languages-bar)" x="861.3463555333982" y="0" width="33.18691389804728" height="8" fill="#3f8000"/>
+                    <rect mask="url(#languages-bar)" x="894.5332694314455" y="0" width="25.46673056855449" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -398,8 +398,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>7.91k lines</div>
-                                <div>253 kB</div>
+                                <div>7.90k lines</div>
+                                <div>252 kB</div>
                                 <div>2.77%</div>
                             </small>
                         </div>
@@ -428,8 +428,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="279.65 329"/>
-                                <text x="60" y="60" dominant-baseline="central">85</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="269.78 329"/>
+                                <text x="60" y="60" dominant-baseline="central">82</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -2890,14 +2890,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2025, 17:59:30 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jan 2025, 18:41:33 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -28,8 +28,8 @@ jobs:
           user: reallinshengxiang
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
-          config_timezone: America/Los_Angeles
+          config_display: columns
+          config_timezone: Asia/Shanghai
           #plugin_calendar: yes
           #plugin_calendar_limit: 1
           plugin_isocalendar: yes
@@ -51,3 +51,14 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_fortune: yes
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories
+          plugin_nightscout: yes
+          plugin_nightscout_datapoints: 12
+          plugin_nightscout_highalert: 180
+          plugin_nightscout_lowalert: 80
+          plugin_nightscout_urgenthighalert: 250
+          plugin_nightscout_urgentlowalert: 50
+          plugin_nightscout_url: https://example.herokuapp.com

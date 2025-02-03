@@ -40,6 +40,9 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 20
+          plugin_languages_indepth_custom: reallinshengxiang/COMPSCI-162
+          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 365
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred

@@ -47,6 +47,15 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 20
+          plugin_habits_languages_threshold: 0%
+          repositories_forks: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://reallinshengxiang.github.io/
           plugin_achievements: yes

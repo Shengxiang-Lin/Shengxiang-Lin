@@ -81,17 +81,11 @@ If you are interested in my research, feel free to contact me!
     <img src=https://media.tenor.com/ExQxWI9uIQoAAAAi/iphone-iphone-emoji.gif alt=Contact width=40>
     Contact me
   </h3>
-  <img src=./assets/gifs/blinking_line.gif alt="Blinking line" />
-  </br>
-  </br>
-  
+  <img src=./assets/gifs/blinking_line.gif alt="Blinking line" />    
   [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-vicente/)
   [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fab10_vicente)
   [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiolvsantos93@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991366088)
-  </br>
-  </br>
-  </br>            
+  [![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991366088)              
 - linshengxiang@berkeley.edu
 - linshengxiang@stu.xjtu.edu.cn
 

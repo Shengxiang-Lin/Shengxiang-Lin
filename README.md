@@ -77,10 +77,21 @@
 | [UCB-Coursework](https://github.com/reallinshengxiang/UCB-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/UCB-Coursework?color=f2f08d&logo=Undertale&logoColor=ff0000)  | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1  |
 </details>  
 If you are interested in my research, feel free to contact me!       
- [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shengxiang-lin-b13106325/)   
-  [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shengxiang__Lin)    
-  [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reallinshengxiang@gmail.com)    
-  [![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19555126866)           
+ <h3>
+    <img src=https://media.tenor.com/ExQxWI9uIQoAAAAi/iphone-iphone-emoji.gif alt=Contact width=40>
+    Contact me
+  </h3>
+  <img src=./assets/gifs/blinking_line.gif alt="Blinking line" />
+  </br>
+  </br>
+  
+  [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-vicente/)
+  [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fab10_vicente)
+  [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiolvsantos93@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991366088)
+  </br>
+  </br>
+  </br>            
 - linshengxiang@berkeley.edu
 - linshengxiang@stu.xjtu.edu.cn
 

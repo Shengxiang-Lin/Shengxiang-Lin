@@ -61,7 +61,7 @@
 <!-- just img 图片 forked from this man-->
 <!--<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>-->
-## Repositories
+<!-- !## Repositories
 
 <details open>
 <summary>click...</summary>
@@ -75,10 +75,10 @@
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
 | [XJTU-Coursework](https://github.com/reallinshengxiang/XJTU-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/XJTU-Coursework?color=f2f08d&logo=Undertale&logoColor=ff0000) | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1 |
 | [UCB-Coursework](https://github.com/reallinshengxiang/UCB-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/UCB-Coursework?color=f2f08d&logo=Undertale&logoColor=ff0000)  | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1  |
-</details>  
-If you are interested in my research, feel free to contact me!       
-- linshengxiang@berkeley.edu
-- linshengxiang@stu.xjtu.edu.cn
+</details> </div>--> 
+If you are interested in my research, feel free to contact me!         
+- linshengxiang@berkeley.edu    
+- linshengxiang@stu.xjtu.edu.cn   
 
 ## Miscellaneous
 

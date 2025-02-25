@@ -15,7 +15,7 @@
 
 ## Self-Introduction
 
-
+<!--  
 - 🌱 Undergraduate in CS2201 (HONOR), of QianXuesen College, Xi'an Jiaotong University (2022.09 - present)
 - 🔭 UCBX Concurrent International, University of California, Berkeley  (2024.08 - 2024.12)
 - 👯 I’m looking to collaborate on ...
@@ -23,8 +23,9 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: ...-->
+Hi, I am **Shengxiang Lin ( 林圣翔 )**, **CPC Preparatory Member ( 中共预备党员 )**, undergraduate student of Qian Xuesen Honor College / Department of Electronics and Information Science, Zhongying College Computer Experimental Class 2201 ( expected graduation in July 2026 ). I was awarded the **National Scholarship**, **Huawei Scholarship**, **Xi'an Jiaotong University Outstanding Student**, **Xi'an Jiaotong University Outstanding Communist Youth League Member** and other honors. I won **the second prize of individual in the national finals of the Group Programming Ladder Competition**, **the third prize of the national finals of the C/C++ University A Group of the Blue Bridge Cup Programming Competition**, **the first prize of the Shaanxi Region of the National University Students' Mathematical Modeling Competition**, and **more than ten other awards of provincial-level and above competitions**. In the summer of 2024, I participated in the **Innovative Talents Science Training Program ( ITSTP )**, and co-authored one SCI paper. Participated in **Berkeley Global Access Program ( BGA )** in the fall of 2024. I am actively involved in volunteering as the **Co-Founder & Minster of XJTU Computer Science and Technology Experimental Class-Mentor-Group**, accumulating over 300 hours of work.     
+My research interests mainly focus on **Generative AI**, **Natural Language Processing** and **Recommender System**.      
 
 
 
@@ -76,8 +77,8 @@
 | [XJTU-Coursework](https://github.com/reallinshengxiang/XJTU-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/XJTU-Coursework?color=f2f08d&logo=Undertale&logoColor=ff0000) | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1 |
 | [UCB-Coursework](https://github.com/reallinshengxiang/UCB-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/UCB-Coursework?color=f2f08d&logo=Undertale&logoColor=ff0000)  | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1  |
 </details> </div>--> 
-If you are interested in my research, feel free to contact me!         
-- linshengxiang@berkeley.edu    
+<span style="color: red; font-style: italic;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</span>           
+- reallinshengxiang@qq.com    
 - linshengxiang@stu.xjtu.edu.cn   
 
 ## Miscellaneous

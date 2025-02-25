@@ -111,6 +111,4 @@ My research interests mainly focus on **Generative AI**, **Natural Language Proc
 <img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg"> <img src="https://badges.pufler.dev/visits/reallinshengxiang/reallinshengxiang?color=black&logo=github&style=flat-square"><img src="https://komarev.com/ghpvc/?username=reallinshengxiang&label=Views&color=512BD4&style=flat" alt="Visit" />
 <a href='https://clustrmaps.com/site/1c359'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=y1RMaFB1muSfvRwU7GUUEBl90fyCDzLv7TGHvJXmJlo'/></a>
 
-<iframe width="640" height="640" src="https://cybermap.kaspersky.com/cn/widget/dynamic/dark" frameborder="0">    
-[URL=https://info.flagcounter.com/Bccb][IMG]https://s01.flagcounter.com/count2/Bccb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/[/IMG][/URL]     
-<a href="https://info.flagcounter.com/Bccb"><img src="https://s01.flagcounter.com/count2/Bccb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/aIO2"><img src="https://s05.flagcounter.com/map/aIO2/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>

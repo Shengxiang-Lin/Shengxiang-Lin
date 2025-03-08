@@ -111,7 +111,7 @@ My research interests mainly focus on **Generative AI**, **Natural Language Proc
 <img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg"> <img src="https://badges.pufler.dev/visits/reallinshengxiang/reallinshengxiang?color=black&logo=github&style=flat-square"><img src="https://komarev.com/ghpvc/?username=reallinshengxiang&label=Views&color=512BD4&style=flat" alt="Visit" />
 <a href='https://clustrmaps.com/site/1c359'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=y1RMaFB1muSfvRwU7GUUEBl90fyCDzLv7TGHvJXmJlo'/></a>
 
-
+<img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 <!-- <a href="https://info.flagcounter.com/LD6M"><img src="https://s01.flagcounter.com/map/LD6M/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>-->
 <div style="text-align: center;">
   <a href="https://info.flagcounter.com/NWJH">

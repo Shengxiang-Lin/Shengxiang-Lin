@@ -77,10 +77,11 @@ My research interests mainly focus on **Generative AI**, **Natural Language Proc
 | [XJTU-Coursework](https://github.com/reallinshengxiang/XJTU-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/XJTU-Coursework?color=f2f08d&logo=Undertale&logoColor=ff0000) | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1 |
 | [UCB-Coursework](https://github.com/reallinshengxiang/UCB-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/UCB-Coursework?color=f2f08d&logo=Undertale&logoColor=ff0000)  | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1  |
 </details> </div>--> 
-<img align="right" alt="GIF" src="./code.gif" width="230" height="100%" />
-<span style="color: red; font-style: italic;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</span>           
-- reallinshengxiang@qq.com    
-- linshengxiang@stu.xjtu.edu.cn   
+<img align="right" alt="GIF" src="./code.gif" width="150" height="100%" />      
+     
+<span style="color: red; font-style: italic;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</span>            
+- reallinshengxiang@qq.com       
+- linshengxiang@stu.xjtu.edu.cn         
 
 ## Miscellaneous
 

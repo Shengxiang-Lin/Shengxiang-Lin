@@ -354,15 +354,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.26mb of code in 252 edited files across 79 commits over last 31 days</small>
+                <small>estimation from 1.26mb of code in 251 edited files across 77 commits over last 27 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="572.2153427411939" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="572.2153427411939" y="0" width="210.86129740200826" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="783.0766401432022" y="0" width="136.9233598567978" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="575.965050844111" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="575.965050844111" y="0" width="206.21433507750024" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="782.1793859216112" y="0" width="137.8206140783888" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -376,7 +376,7 @@
                             <small>
                                 <div>6k lines</div>
                                 <div>202 kB</div>
-                                <div>62.2%</div>
+                                <div>62.6%</div>
                             </small>
                         </div>
                     </section>
@@ -389,9 +389,9 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>2.33k lines</div>
-                                <div>74.7 kB</div>
-                                <div>22.92%</div>
+                                <div>2.27k lines</div>
+                                <div>72.6 kB</div>
+                                <div>22.41%</div>
                             </small>
                         </div>
                     </section>
@@ -406,7 +406,7 @@
                             <small>
                                 <div>1.48k lines</div>
                                 <div>48.5 kB</div>
-                                <div>14.88%</div>
+                                <div>14.98%</div>
                             </small>
                         </div>
                     </section>
@@ -2686,14 +2686,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2025, 12:14:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 May 2025, 13:10:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

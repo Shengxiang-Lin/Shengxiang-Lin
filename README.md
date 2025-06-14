@@ -116,7 +116,6 @@ My research interests mainly focus on **Generative AI**, **Natural Language Proc
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=reallinshengxiang&show_icons=true&theme=dark&locale=en" alt="rouge3877" /></p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=reallinshengxiang&show_icons=true&theme=dark&locale=en" />
 <!-- <a href="https://info.flagcounter.com/LD6M"><img src="https://s01.flagcounter.com/map/LD6M/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 <div style="text-align: center;">
   <a href="https://info.flagcounter.com/NWJH">

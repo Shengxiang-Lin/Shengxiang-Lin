@@ -1,6 +1,6 @@
 <img src="./github-metrics.svg" alt="Metrics" width="100%">  
 
-![暗色](https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
+![暗色](https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
 
 
 <!--访问次数-->
@@ -94,7 +94,7 @@ My research interests mainly focus on **Generative AI**, **Natural Language Proc
 <!--<div><img src="https://github-readme-activity-graph.vercel.app/graph?username=reallinshengxiang&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
 
 <!--Github奖杯数据展示-->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=reallinshengxiang&theme=radical" />
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Shengxiang-Lin&theme=radical" />
 
 
 <!--使用的语言-搬砖动画-->
@@ -110,11 +110,11 @@ My research interests mainly focus on **Generative AI**, **Natural Language Proc
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=reallinshengxiang&count_private=true&show_icons=true&theme=dracula" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallinshengxiang&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&hide=Jupyter%20Notebook,HTML,TeX" />
 <img src="./github-metrics.svg" alt="Metrics" width="50%">-->
-![Years Badge](https://badges.pufler.dev/years/reallinshengxiang)
-<img src="https://profile-counter.glitch.me/reallinshengxiang/count.svg"> <img src="https://badges.pufler.dev/visits/reallinshengxiang/reallinshengxiang?color=black&logo=github&style=flat-square"><img src="https://komarev.com/ghpvc/?username=reallinshengxiang&label=Views&color=512BD4&style=flat" alt="Visit" />
+![Years Badge](https://badges.pufler.dev/years/Shengxiang-Lin)
+<img src="https://profile-counter.glitch.me/Shengxiang-Lin/count.svg"> <img src="https://badges.pufler.dev/visits/Shengxiang-Lin/Shengxiang-Lin?color=black&logo=github&style=flat-square"><img src="https://komarev.com/ghpvc/?username=Shengxiang-Lin&label=Views&color=512BD4&style=flat" alt="Visit" />
 <a href='https://clustrmaps.com/site/1c359'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=y1RMaFB1muSfvRwU7GUUEBl90fyCDzLv7TGHvJXmJlo'/></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=reallinshengxiang&show_icons=true&theme=dark&locale=en" alt="rouge3877" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shengxiang-Lin&show_icons=true&theme=dark&locale=en" alt="rouge3877" /></p>
 
 <!-- <a href="https://info.flagcounter.com/LD6M"><img src="https://s01.flagcounter.com/map/LD6M/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 <div style="text-align: center;">

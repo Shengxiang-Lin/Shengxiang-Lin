@@ -30,8 +30,8 @@ My research interests mainly focus on **Generative AI**, **Natural Language Proc
 
 
 ## Education
-`2022.09 - 2026.06` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___ [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html)         
-`2024.08 - 2024.12` UCBX Concurrent International, ___University of California, Berkeley___  [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/ucb.webp"  align = "right" width="2.2%"/>](https://www.berkeley.edu/)          
+`2022.09 - 2026.06` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___ [<img src="https://raw.githubusercontent.com/Shenxiang-Lin/Shenxiang-Lin.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html)         
+`2024.08 - 2024.12` UCBX Concurrent International, ___University of California, Berkeley___  [<img src="https://raw.githubusercontent.com/Shenxiang-Lin/Shenxiang-Lin.github.io/refs/heads/master/images/ucb.webp"  align = "right" width="2.2%"/>](https://www.berkeley.edu/)          
    
     
 ## Skills          

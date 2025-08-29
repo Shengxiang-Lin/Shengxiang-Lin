@@ -23,9 +23,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-Hi, I am **Shengxiang Lin**, undergraduate student of Qian Xuesen Honor College / Department of Electronics and Information Science, Zhongying College Computer Experimental Class 2201 ( expected graduation in July 2026 ).  
-My research interests mainly focus on **Generative AI**, **Natural Language Processing** and **Computer Vision**.      
-
+Hi, I am **Shengxiang Lin**, undergraduate student of Qian Xuesen Honor College / Department of Electronics and Information Science, Zhongying College Computer Experimental Class 2201 ( expected graduation in July 2026 ).      
+My research interests primarily focus on **Trustworthy AI**, **Privacy-Preserving Computation**, and **Recommendation Systems**.
 
 
 ## Education

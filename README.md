@@ -1,3 +1,7 @@
+<p align="center" style="background-color: #cccccc;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=250&section=header&text=Hi%2C%20I’m%20Shengxiang%20Lin&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" alt="Header" style="width: 100%;" />
+</p>
+
 <img src="./github-metrics.svg" alt="Metrics" width="100%">  
 
 ![暗色](https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)

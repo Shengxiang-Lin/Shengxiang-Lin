@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=250&section=header&text=Hi%2C%20I’m%20Shengxiang%20Lin&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" alt="Header" style="width: 100%;" />
 </p>
 
-<img src="./github-metrics.svg" alt="Metrics" width="100%">  
-
-![暗色](https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
-
-
 <!--访问次数-->
 
 <!--     <a href="https://bxhu2004.com/"><img src="https://img.shields.io/badge/academicHomepage-@bxhu-yellow" /></a>&emsp;
@@ -98,6 +93,9 @@ My research interests mainly focus on **Generative AI**, **Natural Language Proc
 <!--<div><img src="https://github-readme-activity-graph.vercel.app/graph?username=reallinshengxiang&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
 
 <!--Github奖杯数据展示-->
+<img src="./github-metrics.svg" alt="Metrics" width="100%">  
+
+![暗色](https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Shengxiang-Lin&theme=radical" />
 
 
@@ -126,6 +124,7 @@ My research interests mainly focus on **Generative AI**, **Natural Language Proc
     <img src="https://s05.flagcounter.com/map/NWJH/size_s/txt_000000/border_FFFFFF/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0">
   </a>
 </div>-->
+
 <p align="center" style="background-color: #cccccc;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=120&section=footer" alt="Footer" style="width: 100%;" />
 </p>

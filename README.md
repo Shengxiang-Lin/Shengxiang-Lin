@@ -126,3 +126,6 @@ My research interests mainly focus on **Generative AI**, **Natural Language Proc
     <img src="https://s05.flagcounter.com/map/NWJH/size_s/txt_000000/border_FFFFFF/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0">
   </a>
 </div>-->
+<p align="center" style="background-color: #cccccc;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=120&section=footer" alt="Footer" style="width: 100%;" />
+</p>

@@ -43,9 +43,6 @@ My research interests primarily focus on **Trustworthy AI**, **Privacy-Preservin
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-E5E7EB?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![CUDA](https://img.shields.io/badge/-CUDA-73B169?style=flat-square&logo=cuda&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 [![DeepSpeed](https://img.shields.io/badge/-DeepSpeed-4A646C?style=flat-square&logo=https://raw.githubusercontent.com/microsoft/DeepSpeed/master/docs/source/_static/deepspeed-logo.png&logoColor=white)](https://www.deepspeed.ai/)
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Ethical AI](https://img.shields.io/badge/-Ethical%20AI-4CAF50?style=flat-square&logo=ethics&logoColor=white)](https://www.eoai.eu/)
 <!-- ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 

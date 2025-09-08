@@ -33,30 +33,24 @@ My research interests primarily focus on **Trustworthy AI**, **Privacy-Preservin
    
     
 ## Skills      
-<!-- 编程语言（按工业流行度与项目权重排序） -->
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Cplusplus](https://img.shields.io/badge/-Cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://cplusplus.com/)
 [![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
 [![C#](https://img.shields.io/badge/-Csharp-512BD4?style=flat-square&logo=csharp&logoColor=ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-<!-- 系统与工具（核心生产力工具） -->
 ![Archlinux](https://img.shields.io/badge/-Archlinux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
-<!-- AI/LLM/NLP（从框架到工具链） -->
 [![PyTorch](https://img.shields.io/badge/-PyTorch-F3DA35?style=flat-square&logo=pytorch&logoColor=black)](https://pytorch.org/)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-E5E7EB?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![Transformers](https://img.shields.io/badge/-Transformers-FF9AA2?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/docs/transformers/)
 [![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-10A37F?style=flat-square&logo=openai&logoColor=white)](https://platform.openai.com/)
 [![CUDA](https://img.shields.io/badge/-CUDA-73B169?style=flat-square&logo=cuda&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 [![DeepSpeed](https://img.shields.io/badge/-DeepSpeed-4A646C?style=flat-square&logo=https://raw.githubusercontent.com/microsoft/DeepSpeed/master/docs/source/_static/deepspeed-logo.png&logoColor=white)](https://www.deepspeed.ai/)
-<!-- 游戏开发（引擎与框架） -->
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
-<!-- 数据库与后端（按项目关联度排序） -->
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-<!-- Web开发（前后端技术栈） -->
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 <!-- ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)

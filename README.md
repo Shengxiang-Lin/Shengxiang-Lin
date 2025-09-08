@@ -34,8 +34,9 @@ My research interests primarily focus on **Trustworthy AI**, **Privacy-Preservin
     
 ## Skills          
 [![Cplusplus](https://img.shields.io/badge/-Cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://cplusplus.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/-Csharp-512BD4?style=flat-square&logo=csharp&logoColor=ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
 ![Archlinux](https://img.shields.io/badge/-Archlinux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 <!-- ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=ffffff)

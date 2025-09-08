@@ -48,8 +48,6 @@ My research interests primarily focus on **Trustworthy AI**, **Privacy-Preservin
 [![CCF-CSP](https://img.shields.io/badge/-CCF--CSP-2196F3?style=flat-square&logo=ccf&logoColor=white)](https://csp.ccf.org.cn/)
 [![ACM-ICPC](https://img.shields.io/badge/-ACM--ICPC-4A82C3?style=flat-square&logo=codeforces&logoColor=white)](https://icpc.global/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-F3DA35?style=flat-square&logo=pytorch&logoColor=black)](https://pytorch.org/)
-[![PyTorch Geometric](https://img.shields.io/badge/-PyTorch%20Geometric-F3DA35?style=flat-square&logo=pytorch&logoColor=black)](https://pytorch-geometric.readthedocs.io/)
-[![TorchText](https://img.shields.io/badge/-TorchText-F3DA35?style=flat-square&logo=pytorch&logoColor=black)](https://pytorch.org/text/)
 [![CLIP](https://img.shields.io/badge/-CLIP-10A37F?style=flat-square&logo=openai&logoColor=white)](https://openai.com/research/clip)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-E5E7EB?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![Transformers](https://img.shields.io/badge/-Transformers-FF9AA2?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/docs/transformers/)

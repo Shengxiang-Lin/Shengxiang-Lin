@@ -43,7 +43,7 @@ My research interests primarily focus on **Trustworthy AI**, **Privacy-Preservin
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![RISC-V](https://img.shields.io/badge/-RISC--V-0096D6?style=flat-square&logo=riscv&logoColor=white)](https://riscv.org/)
 [![Intel AVX2](https://img.shields.io/badge/-Intel%20AVX2-0071C5?style=flat-square&logo=intel&logoColor=white)](https://www.intel.com/)
-[![RAG (Retrieval Augmented Generation)](https://img.shields.io/badge/-RAG%20(Retrieval%20Augmented%20Generation)-10A37F?style=flat-square&logo=openai&logoColor=white)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
+[![RAG](https://img.shields.io/badge/-RAG-10A37F?style=flat-square&logo=openai&logoColor=white)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Linux Kernel](https://img.shields.io/badge/-Linux%20Kernel-FFD55A?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![MPI](https://img.shields.io/badge/-MPI-0064CE?style=flat-square&logo=messagepassinginterface&logoColor=white)](https://www.mpi-forum.org/)

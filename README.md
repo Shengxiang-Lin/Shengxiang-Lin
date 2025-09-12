@@ -76,43 +76,7 @@ My research interests primarily focus on **Trustworthy AI**, **Privacy-Preservin
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
-<!-- ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
-![Unity](https://img.shields.io/badge/Unity-002244?style=flat-square&logo=unity&logoColor=ffffff)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
-
-[![ns3](https://img.shields.io/badge/-ns3-83B81A?style=flat-square&logo=ns3&logoColor=ffffff)](https://www.nsnam.org/)
-[![mininet](https://img.shields.io/badge/-mininet-0085CA?style=flat-square&logo=mininet&logoColor=ffffff)](https://mininet.org/)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![MacOS Badge](https://img.shields.io/badge/MacOS-181717?logo=macos&logoColor=fff&style=flat)-->
-
-<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=root-hbx" /> </div> -->
-<!-- just img 图片 forked from this man-->
-<!--<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
-</div>-->
-<!-- !## Repositories
-
-<details open>
-<summary>click...</summary>
-
-|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
-| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
-| [XJTU-Coursework](https://github.com/reallinshengxiang/XJTU-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/XJTU-Coursework?color=f2f08d&logo=Undertale&logoColor=ff0000) | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1 |
-| [UCB-Coursework](https://github.com/reallinshengxiang/UCB-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/UCB-Coursework?color=f2f08d&logo=Undertale&logoColor=ff0000)  | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1  |
-
-|                        Research                         |                            Stars                              |                            Forks                             |              Remark              |
-| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
-| [XJTU-Coursework](https://github.com/reallinshengxiang/XJTU-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/XJTU-Coursework?color=f2f08d&logo=Undertale&logoColor=ff0000) | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1 |
-| [UCB-Coursework](https://github.com/reallinshengxiang/UCB-Coursework) | ![](https://img.shields.io/github/stars/reallinshengxiang/UCB-Coursework?color=f2f08d&logo=Undertale&logoColor=ff0000)  | ![](https://img.shields.io/github/forks/reallinshengxiang/XJTU-Coursework?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 1  |
-</details> </div>--> 
  <img align="right" alt="GIF" src="./code.gif" width="170" height="100%" />  
      
 <span style="color: red; font-style: italic;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</span>            

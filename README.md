@@ -80,8 +80,8 @@ My research interests primarily focus on **Trustworthy AI**, **Privacy-Preservin
  <img align="right" alt="GIF" src="./code.gif" width="170" height="100%" />  
      
 <span style="color: red; font-style: italic;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</span>            
-[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reallinshengxiang@gmail.com)](mailto:reallinshengxiang@gmail.com)   
-[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reallinshengxiang@qq.com)](mailto:reallinshengxiang@qq.com)   
+[![Gmail Badge](https://img.shields.io/badge/-reallinshengxiang@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reallinshengxiang@gmail.com)](mailto:reallinshengxiang@gmail.com)   
+[![Gmail Badge](https://img.shields.io/badge/-reallinshengxiang@qq.com-c14438?style=flat-square&logo=QQ&logoColor=white&link=mailto:reallinshengxiang@qq.com)](mailto:reallinshengxiang@qq.com)   
 
 ## Miscellaneous
 

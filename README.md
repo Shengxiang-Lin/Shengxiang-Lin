@@ -97,9 +97,13 @@ My research interests primarily focus on **Trustworthy AI**, **Privacy-Preservin
 <img src="./github-metrics.svg" alt="Metrics" width="100%">  
 
 ![暗色](https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
+<div align="center">
+<img src="https://oss-compass.org/badge/sqqkh13x.svg" alt="OSS Compass Analyze" />
+<img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=collab_dev_index" alt="OSS Compass Analyze" />
+<img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=activity" alt="OSS Compass Analyze" />
+<img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=organizations_activity" alt="OSS Compass Analyze" />
+</div> 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Shengxiang-Lin&theme=radical" />
-
-
 <!--使用的语言-搬砖动画-->
 <!--<div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=reallinshengxiang&theme=radical&show_icons=true>-->
 
@@ -116,12 +120,7 @@ My research interests primarily focus on **Trustworthy AI**, **Privacy-Preservin
 <!--![Years Badge](https://badges.pufler.dev/years/Shengxiang-Lin)
 <img src="https://profile-counter.glitch.me/Shengxiang-Lin/count.svg"> <img src="https://badges.pufler.dev/visits/Shengxiang-Lin/Shengxiang-Lin?color=black&logo=github&style=flat-square"><img src="https://komarev.com/ghpvc/?username=Shengxiang-Lin&label=Views&color=512BD4&style=flat" alt="Visit" />
 <a href='https://clustrmaps.com/site/1c359'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=y1RMaFB1muSfvRwU7GUUEBl90fyCDzLv7TGHvJXmJlo'/></a>-->
-<div align="center">
-<img src="https://oss-compass.org/badge/sqqkh13x.svg" alt="OSS Compass Analyze" />
-<img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=collab_dev_index" alt="OSS Compass Analyze" />
-<img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=activity" alt="OSS Compass Analyze" />
-<img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=organizations_activity" alt="OSS Compass Analyze" />
-</div> 
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shengxiang-Lin&show_icons=true&theme=dark&locale=en" alt="rouge3877" /></p>
 
 <!-- <a href="https://info.flagcounter.com/LD6M"><img src="https://s01.flagcounter.com/map/LD6M/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>

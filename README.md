@@ -94,7 +94,7 @@ My research interests primarily focus on **Trustworthy AI**, **Privacy-Preservin
 <!--<div><img src="https://github-readme-activity-graph.vercel.app/graph?username=reallinshengxiang&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
 
 <!--Github奖杯数据展示-->
-<img src="./github-metrics.svg" alt="Metrics" width="100%">  
+<img src="./github-metrics.svg" alt="Metrics" width="90%">  
 
 ![暗色](https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Shengxiang-Lin&theme=radical" />

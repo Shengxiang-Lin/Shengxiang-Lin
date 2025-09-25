@@ -28,7 +28,8 @@ My research interests primarily focus on **Trustworthy AI**, **Privacy-Preservin
 
 
 ## Education
-`2022.09 - 2026.06` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___ [<img src="https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin.github.io/refs/heads/main/images/xjtu.webp"  align = "right"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html)         
+`2026.09 - 2031.06` Ph.D. in Artificial Intelligence, ___Zhejiang University___ [<img src="https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin.github.io/refs/heads/main/images/zju.webp"  align = "right"  width="2.2%"/>](https://www.zju.edu.cn/)         
+`2022.09 - 2026.06` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___ [<img src="https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin.github.io/refs/heads/main/images/xjtu.webp"  align = "right"  width="2.2%"/>](https://www.xjtu.edu.cn/)         
 `2024.08 - 2024.12` UCBX Concurrent International, ___University of California, Berkeley___  [<img src="https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin.github.io/refs/heads/main/images/ucb.webp"  align = "right" width="2.2%"/>](https://www.berkeley.edu/)          
    
     

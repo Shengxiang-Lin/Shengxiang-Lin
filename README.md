@@ -76,7 +76,7 @@ My research interests primarily focus on **Artificial Intelligence**.
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
-
+## Contact     
  <img align="right" alt="GIF" src="./code.gif" width="170" height="100%" />  
      
 <span style="color: red; font-style: italic;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</span>            

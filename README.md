@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/boxuan-hu-20040220root/"><img src="https://img.shields.io/badge/LinkedIn-@bxhu-blue" /></a>&emsp;
     <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp; -->
 
-## <i class="fa fa-cog fa-spin fa-fw"></i> Self-Introduction
+## Self-Introduction
 
 <!--  
 - 🌱 Undergraduate in CS2201 (HONOR), of QianXuesen College, Xi'an Jiaotong University (2022.09 - present)

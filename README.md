@@ -32,9 +32,9 @@ My research interests primarily focus on **Artificial Intelligence**.
 `2024.08 - 2024.12` UCBX Concurrent International, ___University of California, Berkeley___  [<img src="https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin.github.io/refs/heads/main/images/ucb.webp"  align = "right" width="2.2%"/>](https://www.berkeley.edu/)          
 `2022.09 - 2026.06` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___ [<img src="https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin.github.io/refs/heads/main/images/xjtu.webp"  align = "right"  width="2.2%"/>](https://www.xjtu.edu.cn/)         
 
-## Skills      
+<!-- ## Skills -->      
 <!-- 编程语言 -->
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+<!--[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Cplusplus](https://img.shields.io/badge/-Cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://cplusplus.com/)
 [![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
 [![C#](https://img.shields.io/badge/-Csharp-512BD4?style=flat-square&logo=csharp&logoColor=ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -76,6 +76,8 @@ My research interests primarily focus on **Artificial Intelligence**.
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
+-->
+
 ## Contact     
  <img align="right" alt="GIF" src="./code.gif" width="170" height="100%" />  
      

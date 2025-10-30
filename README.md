@@ -98,7 +98,9 @@ My research interests primarily focus on **Artificial Intelligence**.
 <img src="./github-metrics.svg" alt="Metrics" width="100%">  
 
 ![暗色](https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shengxiang-Lin&theme=github_dark" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shengxiang-Lin&theme=github_dark" />
+</div>
 <div align="center">
 <img src="https://oss-compass.org/badge/sqqkh13x.svg" alt="OSS Compass Analyze" />
 <img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=collab_dev_index" alt="OSS Compass Analyze" />

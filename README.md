@@ -133,7 +133,6 @@ My research interests primarily focus on **Artificial Intelligence**.
     <img src="https://s05.flagcounter.com/map/NWJH/size_s/txt_000000/border_FFFFFF/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0">
   </a>
 </div>-->
-<iframe width="624" height="640" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">   
 <p align="center" style="background-color: #cccccc;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=120&section=footer" alt="Footer" style="width: 100%;" />
 </p>

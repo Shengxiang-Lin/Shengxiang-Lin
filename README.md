@@ -12,23 +12,6 @@
     <a href="https://www.facebook.com/profile.php?id=61557554264070"><img src="https://img.shields.io/badge/Facebook-@bxhu-blue" /></a>&emsp;
     <a href="https://www.linkedin.com/in/boxuan-hu-20040220root/"><img src="https://img.shields.io/badge/LinkedIn-@bxhu-blue" /></a>&emsp;
     <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp; -->
-<p align="center">
-  <a href="https://Shengxiang-Lin.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/shengxiang-lin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Shengxiang__Lin" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/lin_sheng_xiang" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://facebook.com/profile.php?id=61568692412616" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
 
 ## Self-Introduction  
 <!--  
@@ -99,9 +82,31 @@ My research interests primarily focus on **Artificial Intelligence**.
  <img align="right" alt="GIF" src="./code.gif" width="170" height="100%" />  
      
 <span style="color: red; font-style: italic;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</span>            
-[![Gmail Badge](https://img.shields.io/badge/-reallinshengxiang@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reallinshengxiang@gmail.com)](mailto:reallinshengxiang@gmail.com)   
-[![QQ邮箱 Badge](https://img.shields.io/badge/-reallinshengxiang@qq.com-00CAFC?style=flat-square&logo=QQ&logoColor=white&link=mailto:reallinshengxiang@qq.com)](mailto:reallinshengxiang@qq.com)
-
+<!--[![Gmail Badge](https://img.shields.io/badge/-reallinshengxiang@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reallinshengxiang@gmail.com)](mailto:reallinshengxiang@gmail.com)   
+[![QQ邮箱 Badge](https://img.shields.io/badge/-reallinshengxiang@qq.com-00CAFC?style=flat-square&logo=QQ&logoColor=white&link=mailto:reallinshengxiang@qq.com)](mailto:reallinshengxiang@qq.com)-->
+<p align="center">
+  <a href="https://Shengxiang-Lin.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/shengxiang-lin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Shengxiang__Lin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/lin_sheng_xiang" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/profile.php?id=61568692412616" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:reallinshengxiang@gmail.com">
+    <img src="https://img.shields.io/badge/-reallinshengxiang@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="mailto:reallinshengxiang@qq.com">
+    <img src="https://img.shields.io/badge/-reallinshengxiang@qq.com-000000?style=for-the-badge&logo=QQ&logoColor=white" alt="QQ邮箱 Badge" />
+  </a>
+</p>
 ## Miscellaneous
 
 </div>

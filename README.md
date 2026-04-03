@@ -1,8 +1,8 @@
 <p align="center" style="background-color: #cccccc;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=250&section=header&text=Hi%2C%20I’m%20Shengxiang%20Lin&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" alt="Header" style="width: 100%;" />
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hi)](https://git.io/typing-svg)
+<!-- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hi)](https://git.io/typing-svg)-->
 <!--访问次数-->
 
 <!--     <a href="https://bxhu2004.com/"><img src="https://img.shields.io/badge/academicHomepage-@bxhu-yellow" /></a>&emsp;
@@ -13,19 +13,19 @@
     <a href="https://www.linkedin.com/in/boxuan-hu-20040220root/"><img src="https://img.shields.io/badge/LinkedIn-@bxhu-blue" /></a>&emsp;
     <a href="https://www.researchgate.net/profile/Boxuan-Hu-2"><img src="https://img.shields.io/badge/ResearchGate-@bxhu-black" /></a>&emsp; -->
 <p align="center">
-  <a href="https://alsiam.com" target="_blank">
+  <a href="https://Shengxiang-Lin.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/al-siam" target="_blank">
+  <a href="https://linkedin.com/in/shengxiang-lin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/_alsiam" target="_blank">
+  <a href="https://x.com/Shengxiang__Lin" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://instagram.com/_alsiam" target="_blank">
+  <a href="https://instagram.com/lin_sheng_xiang" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://facebook.com/alsiam.dev" target="_blank">
+  <a href="https://facebook.com/profile.php?id=61568692412616" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>

@@ -110,7 +110,7 @@ My research interests primarily focus on **Artificial Intelligence**.
 <img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=activity" alt="OSS Compass Analyze" />
 <img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=organizations_activity" alt="OSS Compass Analyze" />
 </div> 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Shengxiang-Lin&theme=radical" />
+<div align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=Shengxiang-Lin&theme=radical" />
 <!--使用的语言-搬砖动画-->
 <!--<div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=reallinshengxiang&theme=radical&show_icons=true>-->
 

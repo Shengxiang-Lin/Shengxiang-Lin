@@ -15,7 +15,7 @@ My research interests primarily focus on **Artificial Intelligence**.
 
 
 ## Contact     
- <img align="right" alt="GIF" src="./code.gif" width="170" height="100%" />  
+<!-- <img align="right" alt="GIF" src="./code.gif" width="170" height="100%" />-->  
      
 <span style="color: red; font-style: italic;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</span>            
 

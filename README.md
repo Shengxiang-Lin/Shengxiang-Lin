@@ -22,8 +22,9 @@ My research interests primarily focus on **Artificial Intelligence**.
 <p align="center">
 <a href="https://Shengxiang-Lin.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a><a href="https://linkedin.com/in/shengxiang-lin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://x.com/Shengxiang__Lin" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a><a href="https://instagram.com/lin_sheng_xiang" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a><a href="https://facebook.com/profile.php?id=61568692412616" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a><a href="https://raw.githubusercontent.com/Shengxiang-Lin/Shengxiang-Lin.github.io/refs/heads/main/assets/images/etc/wechat.webp"><img src="https://img.shields.io/badge/WeChat-000000?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a><a href="https://scholar.google.com/citations?user=W-rloDsAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-000000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a><a href="mailto:reallinshengxiang@gmail.com"><img src="https://img.shields.io/badge/-reallinshengxiang@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge" /></a><a href="mailto:reallinshengxiang@qq.com"><img src="https://img.shields.io/badge/-reallinshengxiang@qq.com-000000?style=for-the-badge&logo=QQ&logoColor=white" alt="QQ邮箱 Badge" /></a>
 </p>
-## Miscellaneous
 
+## Miscellaneous  
+ 
 </div>
 
 <img src="./github-metrics.svg" alt="Metrics" width="100%">  

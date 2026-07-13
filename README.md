@@ -5,7 +5,7 @@
 ## Self-Introduction  
 
 Hi, I am **Shengxiang Lin**, an incoming Ph.D. student majoring in Artificial Intelligence at ___Zhejiang University___ and doing research at <strong>Intelligent Service Innovation Center (ISICenter@ZJU) </strong>, advised by Prof. <a href="https://scholar.google.com/citations?user=MY23M60AAAAJ">Xiaolin Zheng</a>. In 2026, I graduated from ___Xi’an Jiaotong University___ with a B.Eng. in the **Honors Science Program (Computer Science)**, as an Honorary Graduate of Qian Xuesen Honors College. In 2024, I completed the **Berkeley Global Access Program** as a nationally funded visiting student at ___UC Berkeley___.     
-My research interests primarily focus on **Artificial Intelligence**.
+My research interests primarily focus on **Trustworthy AI**.
 
 ## Education
 `2026.09 - 2031.06` Ph.D. in Artificial Intelligence, ___Zhejiang University___ [<img src="/images/zju_logo.webp"  align = "right"  width="2.2%"/>](https://www.zju.edu.cn/)         

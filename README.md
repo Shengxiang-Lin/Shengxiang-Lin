@@ -40,8 +40,9 @@ My research interests primarily focus on **Trustworthy AI**.
 </div> 
 <div align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=Shengxiang-Lin&theme=radical" />-->  
 
-    
-<img align="center" src="https://github-readme-stats.shion.dev/api?username=Shengxiang-Lin&show_icons=true&theme=dark&locale=en&rank_icon=percentile" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Shengxiang-Lin&show_icons=true&theme=dark&locale=en&rank_icon=percentile" />
+</div>
 
 
 <p align="center" style="background-color: #cccccc;">

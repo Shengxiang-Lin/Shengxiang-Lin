@@ -32,13 +32,13 @@ My research interests primarily focus on **Trustworthy AI**.
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shengxiang-Lin&theme=github_dark" />
 </div>
-<div align="center">
+<!-- <div align="center">
 <img src="https://oss-compass.org/badge/sqqkh13x.svg" alt="OSS Compass Analyze" />
 <img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=collab_dev_index" alt="OSS Compass Analyze" />
 <img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=activity" alt="OSS Compass Analyze" />
 <img src="https://oss-compass.org/badge/sqqkh13x.svg?metric=organizations_activity" alt="OSS Compass Analyze" />
 </div> 
-<div align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=Shengxiang-Lin&theme=radical" />
+<div align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=Shengxiang-Lin&theme=radical" />-->  
 
 
 <img align="center" src="https://github-readme-stats.shion.dev/api?username=Shengxiang-Lin&show_icons=true&theme=dark&locale=en&rank_icon=percentile" /></p>
